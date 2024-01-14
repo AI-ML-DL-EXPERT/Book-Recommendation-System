@@ -13,8 +13,10 @@ The Book Recommender System is a machine-learning project that aims to provide p
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Scikit-learn
-- Natural Language Toolkit (NLTK
+- Natural Language Toolkit (NLTK)
   
 ## Dataset
 
@@ -22,5 +24,5 @@ The project utilizes a dataset of user-book interactions and book metadata for t
 
 ## Acknowledgements
 
-- The project utilizes the book recommendation algorithms and techniques learned from [(https://youtu.be/1YoD0fg3_EM?si=7WQwBhgItUXE_8MA)].
+- The project utilizes the book recommendation algorithms and techniques learned from [[CampusX Youtube Channel](https://youtu.be/1YoD0fg3_EM?si=7WQwBhgItUXE_8MA)].
 - Special thanks to the contributors and maintainers of the open-source libraries and datasets used in this project.
